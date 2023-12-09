@@ -1,7 +1,0 @@
-pandas
-numpy
-streamlit
-sklearn.model_selection
-sklearn.linear_mode
-
-"social_media_usage.csv"
